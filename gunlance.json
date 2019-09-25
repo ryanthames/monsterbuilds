@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Glutton Fang II",
+    "weapon": {
+      "name": "Glutton's Fang II",
+      "weaponType": "GUNLANCE",
+      "rawDamage": 598,
+      "affinity": 0,
+      "sharpness": "WHITE",
+      "rarity": 10
+    },
+    "critMod": 1.35,
+    "weaknessExploit": 0.3,
+    "criticalEye": 0.4
+  },
+  {
+    "name": "Thundering Striker",
+    "weapon": {
+      "name": "Thundering Striker",
+      "weaponType": "GUNLANCE",
+      "rawDamage": 529,
+      "affinity": 0.2,
+      "sharpness": "PURPLE",
+      "rarity": 10
+    },
+    "critMod": 1.35,
+    "weaknessExploit": 0.3,
+    "criticalEye": 0.4
+  },
+  {
+    "name": "Crimson Ember+",
+    "weapon": {
+      "name": "Crimson Ember+",
+      "weaponType": "GUNLANCE",
+      "rawDamage": 575,
+      "affinity": 0.15,
+      "sharpness": "PURPLE",
+      "rarity": 10
+    },
+    "critMod": 1.35,
+    "weaknessExploit": 0.3,
+    "criticalEye": 0.4
+  },
+  {
+    "name": "Crimson Hornet",
+    "weapon": {
+      "name": "Crimson Hornet",
+      "weaponType": "GUNLANCE",
+      "rawDamage": 598,
+      "affinity": 0.15,
+      "sharpness": "PURPLE",
+      "rarity": 11
+    },
+    "critMod": 1.35,
+    "weaknessExploit": 0.3,
+    "criticalEye": 0.4
+  },
+  {
+    "name": "Soul Chariot",
+    "weapon": {
+      "name": "Soul Chariot",
+      "weaponType": "GUNLANCE",
+      "rawDamage": 552,
+      "affinity": 0.20,
+      "sharpness": "WHITE",
+      "rarity": 10
+    },
+    "critMod": 1.35,
+    "weaknessExploit": 0.3,
+    "criticalEye": 0.4
+  },
+  {
+    "name": "Highness's Fury",
+    "weapon": {
+      "name": "Highness's Fury",
+      "weaponType": "GUNLANCE",
+      "rawDamage": 598,
+      "affinity": 0.15,
+      "sharpness": "WHITE",
+      "rarity": 10
+    },
+    "critMod": 1.35,
+    "weaknessExploit": 0.3,
+    "criticalEye": 0.4
+  },
+  {
+    "name": "Ambermarch",
+    "weapon": {
+      "name": "Ambermarch",
+      "weaponType": "GUNLANCE",
+      "rawDamage": 575,
+      "affinity": 0.3,
+      "sharpness": "WHITE",
+      "rarity": 11
+    },
+    "critMod": 1.35,
+    "weaknessExploit": 0.3,
+    "criticalEye": 0.4
+  },
+  {
+    "name": "Hidden Cannon II",
+    "weapon": {
+      "name": "Hidden Cannon II",
+      "weaponType": "GUNLANCE",
+      "rawDamage": 529,
+      "affinity": 0.2,
+      "sharpness": "PURPLE",
+      "rarity": 10
+    },
+    "critMod": 1.35,
+    "weaknessExploit": 0.3,
+    "criticalEye": 0.4
+  },
+  {
+    "name": "Dragonpike \"Quake\" II",
+    "weapon": {
+      "name": "Dragonpike Quake II",
+      "weaponType": "GUNLANCE",
+      "rawDamage": 644,
+      "affinity": 0,
+      "sharpness": "WHITE",
+      "rarity": 11
+    },
+    "critMod": 1.35,
+    "weaknessExploit": 0.3,
+    "criticalEye": 0.4
+  },
+  {
+    "name": "Mammoth Gunlance II",
+    "weapon": {
+      "name": "Mammoth Gunlance II",
+      "weaponType": "GUNLANCE",
+      "rawDamage": 644,
+      "affinity": 0,
+      "sharpness": "BLUE",
+      "rarity": 10
+    },
+    "critMod": 1.35,
+    "weaknessExploit": 0.3,
+    "criticalEye": 0.4
+  }
+]
