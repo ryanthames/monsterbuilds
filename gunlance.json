@@ -28,6 +28,20 @@
     "criticalEye": 0.4
   },
   {
+    "name": "Crimson Ember",
+    "weapon": {
+      "name": "Crimson Ember+",
+      "weaponType": "GUNLANCE",
+      "rawDamage": 529,
+      "affinity": 0.15,
+      "sharpness": "WHITE",
+      "rarity": 10
+    },
+    "critMod": 1.35,
+    "weaknessExploit": 0.3,
+    "criticalEye": 0.4
+  },
+  {
     "name": "Crimson Ember+",
     "weapon": {
       "name": "Crimson Ember+",
